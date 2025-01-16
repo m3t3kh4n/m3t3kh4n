@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @m3t3kh4n
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-m3t3kh4n/m3t3kh4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Electronic Music.
+- 🌱 I’m currently learning how to deal with Cloud Environments.
+- 💞️ I’m looking to collaborate on FOSS Application Security projects.
+- 📫 You can connect me over Linkedin :).
